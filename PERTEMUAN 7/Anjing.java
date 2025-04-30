@@ -11,11 +11,11 @@ public class Anjing extends Anabul {
 
     @Override
     public void Gerak() {
-        System.out.println(nama + " Gerak : Berjalan");
+        System.out.println(nama + " Gerak : Melata ");
     }
 
     @Override
     public void Bersuara() {
-        System.out.println(nama + " Suara : Guk guk");
+        System.out.println(nama + " Suara : Guk-guk");
     }
 }
