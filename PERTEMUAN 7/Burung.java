@@ -16,6 +16,6 @@ public class Burung extends Anabul {
 
     @Override
     public void Bersuara() {
-        System.out.println(nama + " Suara : Pii-Witt");
+        System.out.println(nama + " Suara : Cuit");
     }
 }
