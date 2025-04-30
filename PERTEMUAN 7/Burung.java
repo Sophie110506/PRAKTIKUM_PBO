@@ -11,11 +11,11 @@ public class Burung extends Anabul {
 
     @Override
     public void Gerak() {
-        System.out.println(nama + " Gerak : Terbang");
+        System.out.println(nama + " Bergerak Terbang");
     }
 
     @Override
     public void Bersuara() {
-        System.out.println(nama + " Suara : Cuit");
+        System.out.println(nama + " Bersuara Cuit");
     }
 }
