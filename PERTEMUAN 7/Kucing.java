@@ -11,11 +11,11 @@ public class Kucing extends Anabul {
 
     @Override
     public void Gerak() {
-        System.out.println(nama + " Gerak : Berjalan");
+        System.out.println(nama + " Bergerak Melata");
     }
 
     @Override
     public void Bersuara() {
-        System.out.println(nama + " Suara : Meong");
+        System.out.println(nama + " Berbunyi Meong");
     }
 }
